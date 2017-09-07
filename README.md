@@ -7,7 +7,7 @@ For this code challenge we would like you to write a simple NodeJS REST API proj
 
 ## Adding MongoDB
 
-Write an API endpoint for saving a JSON object in MongoDB (which can be running in a Docker Container).
+Write an API endpoint for saving a JSON object in MongoDB. Mongo DB should be running in a Docker Container.
 
 - Input:
   - JSON Object
@@ -25,7 +25,19 @@ Write also an API endpoint for getting a list of all previously saved JSON objec
 
 ## Adding Tests
 
-Write end-to-end test(s) for these 2 endpoints, use the library of your choice. Tests should make real HTTP calls. Make sure to test pagination!
+Write end-to-end test(s) for these 2 endpoints.
+
+Tests should be rerunnable and independent of their execution order. Make sure you test the most tricky cases.
+
+
+## Adding Caching
+
+Start Redis in Docker (same way as Mongo) and implement Redis caching for the second endpoint (get list).
+
+
+## Running everything
+
+Ensure that we're able to setup and run everything a task runner or a similar tool.
 
 
 ## How to deliver the results
