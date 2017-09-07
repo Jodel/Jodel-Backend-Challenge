@@ -37,9 +37,9 @@ Start Redis in Docker (same way as Mongo) and implement Redis caching for the se
 
 ## Running everything
 
-Ensure that we're able to setup and run everything a task runner or a similar tool.
+Ensure that we're able to setup and run everything with a task runner or a similar tool.
 
 
 ## How to deliver the results
 
-The result should be a repository on Github with instructions how to run tests.
+Fork this repo and once you're done send us a pull request. The result should be a repository on Github with instructions how to run tests.
