@@ -42,4 +42,4 @@ Ensure that we're able to setup and run everything with a task runner or a simil
 
 ## How to deliver the results
 
-Fork this repo and once you're done send us a pull request. The result should be a repository on Github with instructions how to run tests.
+Fork this repo and once you're done send us a link to a repo with your solution. The result should be your own repository on Github with instructions how to run tests.
