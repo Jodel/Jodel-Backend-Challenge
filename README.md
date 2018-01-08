@@ -2,7 +2,7 @@
 
 Welcome!
 
-For this code challenge we would like you to write a simple NodeJS REST API project or just fork one of the existing projects on Github (https://github.com/ealeksandrov/NodeAPI or https://github.com/scotch-io/node-api), and then extend it with some functionalities below.
+For this code challenge we would like you to write a simple NodeJS REST API project in [express.js](https://expressjs.com/) framework, and then extend it with some functionalities below.
 
 
 ## Adding MongoDB
@@ -37,7 +37,7 @@ Start Redis in Docker (same way as Mongo) and implement Redis caching for the se
 
 ## Running everything
 
-Ensure that we're able to setup and run everything with a task runner or a similar tool.
+Ensure that we're able to setup and run everything with a task runner or a similar tool both locally and in Docker environment. This means we expect to see a Dockerfile and docker-compose.yml files.
 
 
 ## How to deliver the results
